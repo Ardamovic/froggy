@@ -1,8 +1,8 @@
 // app.js
 const SHEETS = {
-    set1: 'Sheet1',
-    set2: 'Sheet2',
-    set3: 'Sheet3'
+    set1: 'set1', // Update to match the JSON file names
+    set2: 'set2',
+    set3: 'set3'
 };
 
 let remainingCards = [];
@@ -17,10 +17,26 @@ const ICONS = {
     'Dare or Drink': '😵 Dare or Drink!',
     'Unknown': '❓'
 };
-
+/*
 async function fetchCards(sheetName) {
     try {
         const response = await fetch(`/api/cards/${sheetName}`);
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching cards:', error);
+        alert('Error fetching card data. Check the console for details.');
+        return [];
+    }
+}
+*/
+
+async function fetchCards(setName) {
+    try {
+        const response = await fetch(`data/${setName}.json`); // Correct path to JSON files
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
         }
