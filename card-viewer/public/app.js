@@ -69,13 +69,21 @@ async function selectCardSet(setName) {
     shuffle(remainingCards);
     displayNextCard();
 
-    document.getElementById('landing-page').classList.add('hidden');
-    document.getElementById('card-page').classList.remove('hidden');
+    showSection('card-page');
 }
 
 function goBack() {
-    document.getElementById('landing-page').classList.remove('hidden');
+    showSection('landing-page');
+}
+
+function showSection(sectionId) {
+    // Hide all sections
+    document.getElementById('landing-page').classList.add('hidden');
+    document.getElementById('how-to-play-page').classList.add('hidden');
     document.getElementById('card-page').classList.add('hidden');
+
+    // Show the selected section
+    document.getElementById(sectionId).classList.remove('hidden');
 }
 
 document.querySelector('#card-page .card-container').addEventListener('click', displayNextCard);
