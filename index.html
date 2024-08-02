@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Viewer</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.3/dist/tailwind.min.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <style>
         html, body {
@@ -16,6 +17,19 @@
             -moz-user-select: none; /* Firefox */
             -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none; /* Non-prefixed version, currently supported by Chrome, Opera, and Edge */
+        }
+        .button-lime {
+            background-color: #dff8b0; /* Light lime green */
+            color: #fff;
+            font-weight: bold;
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem; /* Tailwind's rounded class */
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .button-lime:hover {
+            background-color: #a3e635; /* Darker lime green */
         }
     </style>
 </head>
@@ -36,9 +50,9 @@
         <h1 class="text-2xl font-bold font-froggy mb-6">Click to select!</h1>
         <button class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mb-4" onclick="showSection('how-to-play-page')">How to play</button>
         <div class="flex flex-col sm:flex-row sm:justify-center sm:space-x-4 space-y-4 sm:space-y-0">
-            <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="selectCardSet('set1')">Card Set 1</button>
-            <button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded" onclick="selectCardSet('set2')">Card Set 2</button>
-            <button class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded" onclick="selectCardSet('set3')">Card Set 3</button>
+            <button class="button-lime" onclick="selectCardSet('set1')">Tadpole</button>
+            <button class="button-lime" onclick="selectCardSet('set2')">Froglet</button>
+            <button class="button-lime" onclick="selectCardSet('set3')">Old Frog</button>
         </div>
         <b class="mb-6 mt-2 text-xs font-froggy font-medium block">The older the frog, the more extreme the questions!</b>
     </div>
