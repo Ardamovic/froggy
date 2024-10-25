@@ -1,0 +1,458 @@
+[
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Alle trinken einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Alle trinken einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Alle trinken einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Alle trinken einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Alle trinken einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Alle trinken einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Player Shot!",
+    "body": "Trink einen Shot für jeden Spieler in dem Spiel!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Player Shot!",
+    "body": "Trink einen Shot für jeden Spieler in dem Spiel!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "Für diese Runde zieht jeder zweimal, einschließlich des Spielers, der gerade diese Karte gezogen hat!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "Für diese Runde zieht jeder zweimal, einschließlich des Spielers, der gerade diese Karte gezogen hat!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "Für diese Runde zieht jeder zweimal, einschließlich des Spielers, der gerade diese Karte gezogen hat!",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "Winter Wonderland",
+    "body": "Gebt eine Eiswürfel in euren Mündern 3mal weiter. Wer verliert, muss drei Karten ziehen!",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "One, two, drink",
+    "body": "Wähle einen Spieler aus. Ihr beiden müsst die Augen schließen. Zählt bis drei herunter und zeigt beide eine Fingeranzahl, die entweder eins oder zwei ist. Wenn ihr beide die gleiche Zahl zeigt, müsst ihr beide einen Shot trinken!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Double Doomed!",
+    "body": "Wähle 2 Spieler! Entweder trinken beide einen Shot oder beide ziehen eine Karte!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Double Doomed!",
+    "body": "Wähle 2 Spieler! Entweder trinken beide einen Shot oder beide ziehen eine Karte!",
+    "footer": ""
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Style critique",
+    "body": "Wer hat den schlechtesten Style?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Athletic",
+    "body": "Mach 5 saubere Liegestütze!",
+    "footer": "1"
+  },
+  {
+    "type": "Do",
+    "title": "It's getting hot",
+    "body": "Gib jemanden eine Kuss ;)",
+    "footer": ""
+  },
+  {
+    "type": "Do",
+    "title": "It's getting hot",
+    "body": "Gib jemanden eine Kuss ;)",
+    "footer": ""
+  },
+  {
+    "type": "Do",
+    "title": "To the right",
+    "body": "Sag dem Spieler zu deiner rechten, was ihn oder sie attraktiv macht.",
+    "footer": ""
+  },
+  {
+    "type": "Do",
+    "title": "To the left",
+    "body": "Sag dem Spieler zu deiner linken, was ihn oder sie attraktiv macht.",
+    "footer": ""
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Crazy",
+    "body": "Spiel Smash oder Pass mit allen Spielern.",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Fantasy",
+    "body": "Was sind deine Vorlieben im Bett?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Strong!",
+    "body": "Mache Armdrücken mit dem Spieler gegebenüber.",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Watering the plants",
+    "body": "Was ist der komischte Ort, an dem du pissen warst?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Is this secret?",
+    "body": "Was ist deine größte Schwäche?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Ew!",
+    "body": "Was ist das Wiederlichste was du je gemacht hast?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Forever with me!",
+    "body": "Wenn du den Namen eines anderen Spielers dir auf den Arm tätowieren müsstest, wessen wäre es?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Water 2x",
+    "body": "In der Dusche pinkeln? ja oder nein",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Heartbreaker",
+    "body": "Warum ist deine letzte Beziehung zu Ende gegangen? Wenn du noch nie eine hattest, warum denkst du, wäre das so?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Place and time?",
+    "body": "Was ist der komischter Ort, an dem du Sex hattest?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Bye bye!",
+    "body": "Wenn du einen Spieler nie wieder sehen könntest, wer wäre es?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Smileyface",
+    "body": "Wer der anderen Spieler hat das süßeste Gesicht?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Yellow in blue",
+    "body": "Hast du schon mal in den Pool gemacht?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "No-Joker",
+    "body": "Wer hat den schlechtesten und wer den besten Humor?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "SmSexual",
+    "body": "lies den letzten versauten Text oder Anmachspruch vor, den du verschickt hast!",
+    "footer": "6"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "What'rye lookin at?",
+    "body": "Für eine Runde, gucke keine Spieler in die Augen, wenn doch.... Shots shots shots",
+    "footer": "1"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Message reveal",
+    "body": "Lass den 3 Spieler neben dir eine App aussuchen und einen Blick in den Letzten Chat werfen.",
+    "footer": "4"
+  },
+  {
+    "type": "Do",
+    "title": "Ice spice",
+    "body": "Packe einen Eiswürfel in deinen Mund, nachdem dein rechter Nachbar den Eiswürfel über deinen Hals gestreichelt hat.",
+    "footer": ""
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "To the left!",
+    "body": "Sag etwas versautes zu der Peron zu deiner Linken.",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "To the right!",
+    "body": "Sag etwas versautes zu der Peron zu deiner Rechten.",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Thai evening",
+    "body": "Bis die Runde zu Ende ist, gib dem Gastgeber eine Massage, Spaß such dir wen aus.",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Spice dance",
+    "body": "Gib jemanden deiner Wahl einen Lapdance ;)",
+    "footer": "5"
+  },
+  {
+    "type": "Do",
+    "title": "Clothes store",
+    "body": "Gib drei Kleidungstücke ab. Socken sind langweilig!",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "Smelly!",
+    "body": "Verbinde deine Augen und errate die Spieler an ihrem Parfüm.",
+    "footer": "3"
+  },
+  {
+    "type": "Do",
+    "title": "Tickleking",
+    "body": "Lass dich kitzeln, wenn du lachst: Shotssss",
+    "footer": "4"
+  },
+  {
+    "type": "Do",
+    "title": "Will it fit?",
+    "body": "Gib ein Kleidungstück für eine Runde an jemanden ab.",
+    "footer": ""
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Woof.",
+    "body": "Für zwei Runden kannst du nur mit bellen antworten.",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Soft as can be",
+    "body": "Bist du rassiert? ;)",
+    "footer": "4"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Weirdo!",
+    "body": "Was ist das komischte was du versteckst?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Flame grilled",
+    "body": "Gib jedem einen fiesen Spitznamen.",
+    "footer": "1"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Dreamer",
+    "body": "Erzähl von deinem letzten feuchtem Traum. Was ist passiet?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Free the ...",
+    "body": "Zieh jemanden ein Kleidungstück aus, dem der am meisten an hat.",
+    "footer": "4"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Mannequin",
+    "body": "Lass dich von den anderen in eine Postition bringen und bleibe so für eine Runde.",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Calendar game",
+    "body": "Alle, wann habt ihr das letzte Mal Sex gehabt oder euch selber bespaßt?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "First time?!",
+    "body": "Mit wem hattest du deinen ersten Kuss?",
+    "footer": "4"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Buttnaked",
+    "body": "Hast du das Haus schonmal nackt verlassen?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Pervert!!",
+    "body": "Wen würdest du gerne mal nackt sehen?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "No nudes please!",
+    "body": "Zeig uns ein sehr witziges Bild aus deinem Handy.",
+    "footer": "4"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Polyamorous",
+    "body": "Wenn du zwei Personen gleichzeitig daten könntest, würdest du?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Color of love",
+    "body": "Was ist eine red flag für dich?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Spice texts",
+    "body": "Hast du schonmal gesexted?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Traitor!",
+    "body": "Wen fragst du, um eine Leiche zu begraben?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Caught in 4K!",
+    "body": "Wurdest du schonmal erwischt? Dann verteile eine Shot!",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Pickup Truck",
+    "body": "Bester Anmachspruch!",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Toilettime",
+    "body": "Schon mal auf dem Klo gebumst?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Colorblind?",
+    "body": "Alle Spieler: welche Farbe hat eure Unterwäsche?",
+    "footer": "3"
+  },
+  {
+    "type": "Minigame",
+    "title": "Spice level 100",
+    "body": "Küss den nacken eines Mitspielers!",
+    "footer": "3"
+  },
+  {
+    "type": "Minigame",
+    "title": "Escape room",
+    "body": "Verlass den Raum mit einem Mitspieler, solange ihr draußen seid müsst ihr rummachen oder jeder 3 Shots",
+    "footer": "3"
+  },
+  {
+    "type": "Minigame",
+    "title": "Don't be inappropriate",
+    "body": "Verbinde deine Augen und errate die Spieler durchs Anfassen.",
+    "footer": ""
+  }
+]

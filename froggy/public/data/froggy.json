@@ -1,0 +1,518 @@
+[
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Shot!",
+    "body": "Take a shot",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Everybody Shot!",
+    "body": "Everybody takes a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Player Shot!",
+    "body": "Take a shot for every player in the game!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Player Shot!",
+    "body": "Take a shot for every player in the game!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "For one round, everyone draws twice (including the one who just drew this card!)",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "For one round, everyone draws twice (including the one who just drew this card!)",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "For one round, everyone draws twice (including the one who just drew this card!)",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "For one round, everyone draws twice (including the one who just drew this card!)",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Oops!",
+    "body": "For one round, everyone draws twice (including the one who just drew this card!)",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "Winter Wonderland",
+    "body": "Trade around an ice cube in your mouths until it melts. Whoever loses needs to draw three cards!",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "One, two, drink",
+    "body": "Choose a player. Both of you need to close your eyes. Count down from three and both of you need to show a finger count that is either one or two. Should you both show the same number, both take a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Double Doomed!",
+    "body": "Choose two players. Either both draw a card or both take a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Double Doomed!",
+    "body": "Choose two players. Either both draw a card or both take a shot!",
+    "footer": ""
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Style critique",
+    "body": "Which player has the worst style?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Athletic",
+    "body": "Do 5 clean pushups!",
+    "footer": "1"
+  },
+  {
+    "type": "Do",
+    "title": "It's getting hot",
+    "body": "Kiss another player!",
+    "footer": ""
+  },
+  {
+    "type": "Do",
+    "title": "It's getting hot",
+    "body": "Kiss another player!",
+    "footer": ""
+  },
+  {
+    "type": "Do",
+    "title": "To the right",
+    "body": "Tell the person to your right one thing about them that makes them fuckable.",
+    "footer": ""
+  },
+  {
+    "type": "Do",
+    "title": "To the left",
+    "body": "Tell the person to your left one thing about them that makes them fuckable.",
+    "footer": ""
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Crazy",
+    "body": "Play smash or pass with every player",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Fantasy",
+    "body": "What's your biggest sexual fantasy?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Oops!",
+    "body": "What's one of your fetishes?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Watering the plants",
+    "body": "What's the weirdest place you peed?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Is this secret?",
+    "body": "What's your biggest insecurity?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Ew!",
+    "body": "What's the most disgusting thing you've ever done?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Forever with me!",
+    "body": "If you had to tattoo one of the other players names on your arm, whose would it be?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Water 2x",
+    "body": "Peeing in the shower, yes no?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Heartbreaker",
+    "body": "Why did your last relationship end? If you never had one, why do you think that is?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Place and time?",
+    "body": "What is the weirdest place you had a sexual encounter?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Bye bye!",
+    "body": "If you had to cut one of the other players out of your life, who would it be?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Smileyface",
+    "body": "Who of the other players has the cutest face?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Yellow in blue",
+    "body": "Have you ever peed in the pool?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "No-Joker",
+    "body": "Who of the other players has the worst humor?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "SmSexual",
+    "body": "Read the last dirty text you sent!",
+    "footer": "6"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "What'rye lookin at?",
+    "body": "For one round sit with your back to the other players",
+    "footer": "1"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Message reveal",
+    "body": "Let the other players vote which app they want to look through. Let them look through it",
+    "footer": "4"
+  },
+  {
+    "type": "Do",
+    "title": "Ice spice",
+    "body": "Put 3 ice cubes in your mouth and keep them there until they melt",
+    "footer": ""
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "To the left!",
+    "body": "Say something dirty to the person to your left",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "To the right!",
+    "body": "Say something dirty to the person to your right",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Thai evening",
+    "body": "Until the round ends, give a foot massage to person to your right",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Spice dance",
+    "body": "Give a lap dance to someone of your choice",
+    "footer": "5"
+  },
+  {
+    "type": "Do",
+    "title": "Clothes store",
+    "body": "Remove 4 pieces of clothing!",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "Smelly!",
+    "body": "Put on a blindfold and smell every other players armpit in random order and rate it from a scale of 1 to 10",
+    "footer": "3"
+  },
+  {
+    "type": "Do",
+    "title": "Tickleking",
+    "body": "Let someone else tickle you and don't laugh. If you laugh, drink 2",
+    "footer": "4"
+  },
+  {
+    "type": "Do",
+    "title": "Will it fit?",
+    "body": "Take off a piece of clothing from someone else. You have to put it on. If it doesn't fit, drink 2 and return it. If it fits, keep it on for two turns.",
+    "footer": ""
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Woof.",
+    "body": "For the next two turns, you can only answer to questions in barks",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Soft as can be",
+    "body": "Is your private area shaved currently?",
+    "footer": "4"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Weirdo!",
+    "body": "What is the weirdest thing you are hiding?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Flame grilled",
+    "body": "Roast every player with one word",
+    "footer": "1"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Dreamer",
+    "body": "Tell everyone about your wildest sex dream and who it involved. If it involved any of the other players, the ones involved drink 1",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Free the grippers",
+    "body": "Remove someone else's socks with your mouth!",
+    "footer": "4"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Mannequin",
+    "body": "Let the other players pose you and stay that way until the end of the round",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Calendar game",
+    "body": "Everyone: When was the last time you pleasured yourself?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "First time?!",
+    "body": "Who did you have your worst kiss with? If you never had a kiss, kiss a player of your choice",
+    "footer": "4"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Buttnaked",
+    "body": "Everyone: Have you ever left the house without underwear? Do you do it regularly?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Pervert!!",
+    "body": "Who of the other players would you want to see naked?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "No nudes please!",
+    "body": "Show us the most scandalous photo of yourself on your phone",
+    "footer": "4"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Polyamorous",
+    "body": "If you could date two people at once, would you do it and whom with?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Color of love",
+    "body": "What unusual thing about a person is a red flag to you?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Spice texts",
+    "body": "Have you ever sexted? If so, whom with?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Traitor!",
+    "body": "Who would you call to help you bury a body - If the person is a player, would you help them?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Caught in 4K!",
+    "body": "Have you been caught doing the deed? If yes, everyone but you drinks 1. If no, you drink 1",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Pickup Truck",
+    "body": "Everyone: What is your best pickup line",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Toilettime",
+    "body": "What is the spiciest thing you've done on a toilet?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Colorblind?",
+    "body": "Everyone: Show the other players the color of your underwear",
+    "footer": "3"
+  },
+  {
+    "type": "Minigame",
+    "title": "Spice level 100",
+    "body": "Another player can choose to do something sexual to you. They can choose what they will do to you or you drink 5. If nobody wants to do it, everybody drinks 2",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "Escape room",
+    "body": "Leave the room with the person to your right. The game continues without you two. As long as you're making out, you can stay out of the room. Should you decide not to leave the room, both of you drink 5",
+    "footer": ""
+  },
+  {
+    "type": "Minigame",
+    "title": "Don't be inappropriate",
+    "body": "Put on a blindfold and touch each player and guess who they are. If you get everything right, everyone but you drinks 1",
+    "footer": ""
+  }
+]

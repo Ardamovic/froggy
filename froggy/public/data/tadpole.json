@@ -1,0 +1,320 @@
+[
+  {
+    "type": "Truth or Drink",
+    "title": "Geplatzte Träume",
+    "body": "Was war dein Traumberuf als Kind?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Bayrisch?",
+    "body": "Kannst du einen bestimmten Dialekt imitieren? Zeig ihn uns!",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "1, 2 Switch!",
+    "body": "Mit welcher Person würdest du gerne für einen Tag dein Leben tauschen?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Christmas?",
+    "body": "Was war das schlechteste Geschenk was du je bekommen hast und von wem?",
+    "footer": "1"
+  },
+  {
+    "type": "Drink",
+    "title": "Belohnung!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Belohnung!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Belohnung!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Belohnung!",
+    "body": "Trink einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Gruppenbelohnung!",
+    "body": "Jeder trinkt einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Gruppenbelohnung!",
+    "body": "Jeder trinkt einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Gruppenbelohnung!",
+    "body": "Jeder trinkt einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Drink",
+    "title": "Gruppenbelohnung!",
+    "body": "Jeder trinkt einen Shot!",
+    "footer": ""
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Love Island",
+    "body": "In welchen Promi warst du schon mal verliebt?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Inhaltsangabe",
+    "body": "Wie würden dich deine Freunde beschreiben?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "… and a happy new year!",
+    "body": "Hast du Silvester Vorsätze und hältst du dich dran?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Love in the air?",
+    "body": "Welche drei Eigenschaften muss dein Partner haben?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "What do you fancy",
+    "body": "Fällt es dir leicht, offen über deine Wünsche beim Sex zu sprechen?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Fam and Future-Fam",
+    "body": "Wann wäre der richtige Zeitpunkt, deinen neuen Partner deiner Familie oder Freunden vorzustellen?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "To the left!",
+    "body": "Was war der erste Eindruck, als du die Person links von dir das erste Mal gesehen hast?",
+    "footer": "3"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "To the right",
+    "body": "Was war der erste Eindruck, als du die Person rechts von dir das erste Mal gesehen hast?",
+    "footer": "3"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Love Story",
+    "body": "Hast du schon einmal jemandem das Herz gebrochen? Erzähl uns die Story!",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Sorry mom!",
+    "body": "Wie würden deine Eltern reagieren, wenn du plötzlich Mama / Papa wirst?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Midlife crisis",
+    "body": "Was ist deine größte Angst im Leben?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Setzt die Aluhüte auf!",
+    "body": "Was ist deine Lieblingsverschwörungstheorie?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Seiten auf Ehrenlos",
+    "body": "Hattest du schonmal eine richtig schlimme Frisur? Wie sah sie aus?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Titanic, oderso",
+    "body": "Welcher Kinofilm sollte deiner Meinung nach Realität werden?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Nicht Wiederschaun' und reingehaun",
+    "body": "Was machst du, wenn ein Date nicht gut läuft?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "I'm just a girl",
+    "body": "Magst du es, wenn der Andere den ersten Schritt macht?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Viva la France?",
+    "body": "Wie muss für dich ein richtig guter Kuss sein?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "To the left!",
+    "body": "Würdest du mit der Person links von dir auf ein Date gehen?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "To the right!",
+    "body": "Würdest du mit der Person rechts von dir auf ein Date gehen?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "My one and only",
+    "body": "Wer ist der wichtigste Mensch in deinem Leben?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Storytime!",
+    "body": "Welche Erfahrung hat dich besonders geprägt?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Eindeutig nein!",
+    "body": "Ananas auf Pizza, ja oder nein?",
+    "footer": "2"
+  },
+  {
+    "type": "Technical",
+    "title": "Double trouble",
+    "body": "Zieh nach dieser Karte noch eine. Bis das Handy wieder bei dir ankommt, trinkt jeder doppelt!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Double trouble",
+    "body": "Zieh nach dieser Karte noch eine. Bis das Handy wieder bei dir ankommt, trinkt jeder doppelt!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Uno reverse",
+    "body": "Das Handy wandert ab jetzt in die andere Richtung!",
+    "footer": ""
+  },
+  {
+    "type": "Technical",
+    "title": "Uno reverse",
+    "body": "Das Handy wandert ab jetzt in die andere Richtung!",
+    "footer": ""
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "C Promis und so",
+    "body": "Welchem Social Media Account folgst du aufmerksam?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Du Butterbirne",
+    "body": "Nutella mit oder ohne Butter?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Zeitmaschine",
+    "body": "Welche Entscheidung würdest du gerne rückgängig machen?",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "Bill Gates",
+    "body": "Wenn du nie wieder Geld verdienen müsstest: Was würdest du mit deinem Leben machen?",
+    "footer": "1"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "GNTM",
+    "body": "Wen von den Anwesenden findest du am attraktivsten",
+    "footer": "2"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": "This is a robbery",
+    "body": "Hast du schon einmal eine Straftat begangen?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "What's up?",
+    "body": "Lies die letzte Nachricht vor, die du bei Whatsapp verschickt hast.",
+    "footer": "3"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Browser History",
+    "body": "Zeige allen deine letzten Google-Suchen.",
+    "footer": "3"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "To the left!",
+    "body": "Küsse die person links von dir.",
+    "footer": "5"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "To the right!",
+    "body": "Küsse die person rechts von dir.",
+    "footer": "5"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Ms. Sporty",
+    "body": "Mach 20 saubere Liegestützen",
+    "footer": "3"
+  },
+  {
+    "type": "Truth or Drink",
+    "title": ":)",
+    "body": "Was würdest du machen, wenn du für einen Tag unsichtbar wärst?",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Copycat",
+    "body": "Imitiere eine Person aus der Runde. Die anderen müssen erraten, wer es ist.",
+    "footer": "1"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "Roter Teppich",
+    "body": "Laufe wie bei Germany's Next Topmodel über den Catwalk.",
+    "footer": "2"
+  },
+  {
+    "type": "Dare or Drink",
+    "title": "BAUM FÄLLT",
+    "body": "Versuche, einen Purzelbaum zu machen.",
+    "footer": "1"
+  }
+]
